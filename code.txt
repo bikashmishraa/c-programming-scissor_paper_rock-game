@@ -116,7 +116,6 @@ int main()
         printf("\t\tYou Choosed %c And Computer Choosed %c\n", you, comp);
         }
     }
-
     }
     else{
         printf("So what do you want ?\n");
